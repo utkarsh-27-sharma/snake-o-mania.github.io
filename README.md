@@ -6,5 +6,7 @@ If you are willing to add some more and exciting features, then let's collaborat
 [Let's Play](https://utkarsh-27-sharma.github.io/snake-o-mania.github.io/)
 
 
-<hr><br>Thank You for visiting!
+
+<hr>If you are willing to play it on a mobile device or a tablet, then I'm extremely sorry to disappoint you, that this can only be  used on laptops or desktops as of now.
+<br>Thank You for visiting!
 <br>Have a nice day ahead
